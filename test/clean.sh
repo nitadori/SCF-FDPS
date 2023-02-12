@@ -1,0 +1,1 @@
+rm -f SCFLOG SCFOUT VIRIAL ?SNAP* 
